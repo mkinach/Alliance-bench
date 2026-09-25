@@ -1,4 +1,4 @@
-# alliance-bench
+# Alliance-bench
 
 >  TLDR
 >
